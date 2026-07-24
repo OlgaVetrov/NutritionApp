@@ -10,13 +10,19 @@ The main focus of this project was practicing React Hooks, working with API requ
 
 ## 📚 Table of Contents
 
-Installation
-Usage
-Technologies
-Main Feature
-Customization
-Live Demo
-Credits
+- Installation
+
+- Usage
+
+- Technologies
+
+- Main Feature
+
+- Customization
+
+- Live Demo
+
+- Credits
 
 ## ⚙️ Installation
 
