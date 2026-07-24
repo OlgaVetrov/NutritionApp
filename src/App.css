@@ -86,6 +86,7 @@ h1 {
   input,
   button {
     font-size: 16px;
+    color: black;
   }
 
   button {
@@ -106,5 +107,6 @@ h1 {
   input,
   button {
     font-size: 18px;
+    color: black;
   }
 }
